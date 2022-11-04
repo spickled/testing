@@ -5,5 +5,19 @@ body{
 h1{
     background-color:thistle;
     text-align: center;
-    font-family: 'Comic Sans';
+    font-family: fantasy;
+    text-decoration: overline;
+    text-shadow: 3px 3px grey;
+    border-style: groove;
+}
+
+p{
+    text-align: center;
+    
+}
+
+h2, h3{
+    color:wheat;
+    text-align: center;
+    text-shadow: 2px 2px burlywood;
 }
